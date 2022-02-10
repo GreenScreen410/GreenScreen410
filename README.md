@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=GreenScreen410)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenScreen410&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410)](https://github.com/anuraghazra/github-readme-stats)
