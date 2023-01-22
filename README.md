@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=Welcome!&animation=blinking&type=waving&color=random&height=200)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=GreenScreen410)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenScreen410&show_icons=true&theme=default)
