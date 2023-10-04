@@ -1,6 +1,6 @@
 <div>
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=GreenScreen410&show_icons=true">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=GreenScreen410&layout=compact">
+  <img align="left" width="50%" src="https://github-readme-stats-greenscreen410.vercel.app/api?username=GreenScreen410&show_icons=true">
+  <img align="left" width="50%" src="https://github-readme-stats-greenscreen410.vercel.app/api/wakatime?username=GreenScreen410&layout=compact">
 </div>
 
 <div>
