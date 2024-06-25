@@ -13,14 +13,14 @@
 <a href="https://solved.ac/pauljjang410" target="_blank"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=pauljjang410"></a>
 
 ## 😎 Activity
-- 2020 구글 인디게임 페스티벌 유저 심사단
-- PreMiD 한국어 번역 검수, 교정원
-- 선린인터넷고등학교 정보보호과 117기
-- 선린인터넷고등학교 전공동아리 Emotion 6기
-- 2022 현대오토에버·함께일하는재단 화이트해커 경진대회 우수상
-- KIRTI Best of the Best 12기 취약점분석
-- 대구 ABB 해커톤 최우수상
-- 2024 충청북도 생성형 인공지능 전국 경진대회 우수상
+- 2020 Google Indie Game Festival User Judge
+- PreMiD Korean Translator, Proofreader
+- Sunrin Internet High School Information Security 117th
+- Sunrin Internet High School Emotion 6th
+- 2022 Hyundai AutoEver·Work Together Foundation White Hacker Competition Excellence Aaward
+- KIRTI Best of the Best 12th Vulnerability Analysis (200 out of 1,469)
+- Daegu AI·Big Data·Blockchain Hackathon Grand Prize (2 out of 14+)
+- 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition Excellence Aaward (8 out of 630)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
