@@ -19,6 +19,7 @@
 - Sunrin Internet High School Emotion 6th
 - 2022 Hyundai AutoEver·Work Together Foundation White Hacker Competition Excellence Aaward
 - KIRTI Best of the Best 12th Vulnerability Analysis (200 out of 1,469)
+- 2023 Posco DX AI YOUTH Challenge Qualifier (8 out of 436)
 - Daegu AI·Big Data·Blockchain Hackathon Grand Prize (2 out of 14+)
 - 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition Excellence Aaward (8 out of 630)
 
