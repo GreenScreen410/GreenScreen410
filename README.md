@@ -17,11 +17,12 @@
 - PreMiD Korean Translator, Proofreader
 - Sunrin Internet High School Information Security 117th
 - Sunrin Internet High School Emotion 6th
-- 2022 Hyundai AutoEver·Work Together Foundation White Hacker Competition Excellence Aaward
+- 2022 Hyundai AutoEver·Work Together Foundation White Hacker Competition Excellence Award
 - KIRTI Best of the Best 12th Vulnerability Analysis (200 out of 1,469)
 - 2023 Posco DX AI YOUTH Challenge Qualifier (8 out of 436)
 - Daegu AI·Big Data·Blockchain Hackathon Grand Prize (2 out of 14+)
-- 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition Excellence Aaward (8 out of 630)
+- 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition Excellence Award (8 out of 630)
+- 2024 1st Smart AI Content Contest Excellence Award (20 out of ?)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
