@@ -29,4 +29,4 @@
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
 ![](https://github-readme-stats.vercel.app/api?username=GreenScreen410&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=GreenScreen410&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=GreenScreen410\&layout=compact)
