@@ -26,6 +26,8 @@
 - 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition Excellence Award (8 out of 630)
 - 2024 1st Smart AI Content Contest Award (20 out of ?)
 - 2024 5th Posco DX AI YOUTH Challenge Participation Prize (2 out of 221 teams, 551 people)
+- 2024 The 30th National Creative IT Coding Competition: Big Data Gyeonggi-do Branch Award
+- 2024 The 30th National Creative IT Coding Competition: Information Processing Expert National Assembly Member Award
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
