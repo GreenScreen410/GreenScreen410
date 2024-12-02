@@ -17,17 +17,17 @@
 - PreMiD Korean Translator, Proofreader
 - Sunrin Internet High School Information Security 117th
 - Sunrin Internet High School Emotion 6th
-- 2022 Hyundai AutoEver·Work Together Foundation White Hacker Competition Excellence Award
-- KIRTI Best of the Best 12th Vulnerability Analysis (200 out of 1,469)
-- 2023 4th Posco DX AI YOUTH Challenge Qualifier (8 out of 205 teams, 436 people)
-- Daegu AI·Big Data·Blockchain Hackathon Grand Prize (2 out of 14+ teams)
-- 2024 High School Student AI Competition 1st Jeju Preliminary Round (9 out of 45 teams)
-- 2024 High School Student AI Competition 1st Jeju (8 out of 19 teams)
-- 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition Excellence Award (8 out of 630)
-- 2024 1st Smart AI Content Contest Award (20 out of ?)
-- 2024 5th Posco DX AI YOUTH Challenge Participation Prize (2 out of 221 teams, 551 people)
-- 2024 The 30th National Creative IT Coding Competition: Big Data Gyeonggi-do Branch Award
-- 2024 The 30th National Creative IT Coding Competition: Information Processing Expert National Assembly Member Award
+- 2022 Hyundai AutoEver·Work Together Foundation White Hacker Competition **Excellence Award**
+- KIRTI Best of the Best 12th **Vulnerability Analysis (200 out of 1,469)**
+- 2023 4th Posco DX AI YOUTH Challenge **Qualifier (8 out of 205 teams, 436 people)**
+- Daegu AI·Big Data·Blockchain Hackathon **Grand Prize (2 out of 14+ teams)**
+- 2024 High School Student AI Competition 1st Jeju **Preliminary Round (9 out of 45 teams)**
+- 2024 High School Student AI Competition 1st Jeju **(8 out of 19 teams)**
+- 2024 Chungcheongbuk-do Generative Artificial Intelligence National Competition **Excellence Award (8 out of 630)**
+- 2024 1st Smart AI Content Contest **Award (20 out of ?)**
+- 2024 5th Posco DX AI YOUTH Challenge **Participation Prize (2 out of 221 teams, 551 people)**
+- 2024 The 30th National Creative IT Coding Competition: **Big Data Gyeonggi-do Branch Award**
+- 2024 The 30th National Creative IT Coding Competition: **Information Processing Expert National Assembly Member Award**
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
