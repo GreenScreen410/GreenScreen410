@@ -1,0 +1,55 @@
+#include <algorithm>
+#include <cmath>
+#include <iomanip>
+#include <iostream>
+#include <vector>
+using namespace std;
+
+struct Point {
+  long long x, y;
+};
+
+long long ccw(Point a, Point b, Point c) {
+  return (a.x * b.y + b.x * c.y + c.x * a.y) - (b.x * a.y + c.x * b.y + a.x * c.y);
+}
+
+vector<Point> convex_hull(vector<Point> points) {
+  sort(points.begin(), points.end(), [](Point a, Point b) {
+    return make_pair(a.y, a.x) < make_pair(b.y, b.x);
+  });
+  sort(points.begin() + 1, points.end(), [p = points.front()](Point a, Point b) {
+    return ccw(p, a, b) > 0 || (ccw(p, a, b) == 0 && make_pair(a.y, a.x) < make_pair(b.y, b.x));
+  });
+  
+  vector<Point> hull;
+  for (auto p : points) {
+    while (hull.size() >= 2 && ccw(hull[hull.size() - 2], hull.back(), p) <= 0) {
+      hull.pop_back();
+    }
+    hull.push_back(p);
+  }
+  
+  return hull;
+}
+
+int main() {
+  int N;
+  cin >> N;
+  
+  vector<Point> points(N);
+  for (auto &p : points) {
+    cin >> p.x >> p.y;
+  }
+  
+  vector<Point> hull = convex_hull(points);
+  double D = 0;
+  for (int i = 0; i < hull.size(); i++) {
+    Point a = hull[i];
+    Point b = hull[(i + 1) % hull.size()];
+    D += sqrt((a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y));
+  }
+  
+  cout << setprecision(2) << fixed << D;
+  
+  return 0;
+}
