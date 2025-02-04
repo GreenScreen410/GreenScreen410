@@ -13,22 +13,21 @@ long long ccw(Point a, Point b, Point c) {
 
 vector<Point> convex_hull(vector<Point> points) {
   sort(points.begin(), points.end(), [](Point a, Point b) {
-    return make_pair(a.y, a.x) < make_pair(b.y, b.x);
-  });
-  
-  Point pivot = points[0];
-  sort(points.begin() + 1, points.end(), [pivot](Point a, Point b) {
-    long long cross = ccw(pivot, a, b);
-    return cross ? cross > 0 : make_pair(a.y, a.x) < make_pair(b.y, b.x);
+    return make_pair(a.x, a.y) < make_pair(b.x, b.y);
   });
 
   vector<Point> hull;
   for (auto p : points) {
-    while (hull.size() >= 2 && ccw(hull.end()[-2], hull.back(), p) <= 0) {
-      hull.pop_back();
-    }
+    while (hull.size() >= 2 && ccw(hull[hull.size() - 2], hull.back(), p) <= 0) hull.pop_back();
     hull.push_back(p);
   }
+
+  int lower_hull_size = hull.size();
+  for (int i = points.size() - 2; i >= 0; --i) {
+    while (hull.size() > lower_hull_size && ccw(hull[hull.size() - 2], hull.back(), points[i]) <= 0) hull.pop_back();
+    hull.push_back(points[i]);
+  }
+  hull.pop_back();
 
   return hull;
 }
