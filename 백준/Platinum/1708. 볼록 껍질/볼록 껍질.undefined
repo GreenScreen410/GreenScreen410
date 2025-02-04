@@ -22,9 +22,9 @@ vector<Point> convex_hull(vector<Point> points) {
     hull.push_back(p);
   }
 
-  int lower_hull_size = hull.size();
+  int hull_size = hull.size();
   for (int i = points.size() - 2; i >= 0; --i) {
-    while (hull.size() > lower_hull_size && ccw(hull[hull.size() - 2], hull.back(), points[i]) <= 0) hull.pop_back();
+    while (hull.size() > hull_size && ccw(hull[hull.size() - 2], hull.back(), points[i]) <= 0) hull.pop_back();
     hull.push_back(points[i]);
   }
   hull.pop_back();
