@@ -32,7 +32,7 @@ Hello, I'm a 19 year old student and I'm studying in South Korea.
 - 2024 5th Posco DX AI YOUTH Challenge **Participation Prize (2 out of 221 teams, 551 people)** (참가상)
 - 2024 The 30th National Creative IT Coding Competition: **Big Data Gyeonggi-do Branch Award** (경기도지회장상)
 - 2024 The 30th National Creative IT Coding Competition: **Information Processing Expert National Assembly Member Award** (국회의원상)
-- 2025 Hongik University Department of Software
+- 2025 Hongik University Department of Software and Communication
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
