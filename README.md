@@ -34,6 +34,7 @@ Hello, I'm a 19 year old student and I'm studying in South Korea.
 - 2024 The 30th National Creative IT Coding Competition: **Information Processing Expert National Assembly Member Award** (국회의원상)
 - 2025 Hongik University Department of Software and Communication
 - 2025.7.21 ~ 9.5 Innogrid Inc. Cloud Research Center Hybrid Platform Team Internship
+- 2025 Gumi City Policy Proposal Paper Contest **Silver Award** (은상)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
