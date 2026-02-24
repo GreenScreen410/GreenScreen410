@@ -34,8 +34,8 @@ Hello, I'm a 20 year old student and I'm studying in South Korea.
 - 2025 Hongik University Department of Software and Communication
 - 2025.7.21 ~ 9.5 Innogrid Inc. Cloud Research Center Hybrid Platform Team Internship
 - 2025 Gumi City Policy Proposal Paper Contest **Silver Award** (은상)
-
+- 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
-![](https://github-readme-stats.vercel.app/api?username=GreenScreen410&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=GreenScreen410\&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
+![](https://github-stats-extended.vercel.app/api?username=GreenScreen410&show_icons=true)
+![](https://github-stats-extended.vercel.app/api/wakatime?username=GreenScreen410\&layout=compact)
