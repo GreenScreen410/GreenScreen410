@@ -16,7 +16,7 @@ Hello, I'm a 20 year old student and I'm studying in South Korea.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## 📊 Problem Solving
-<a href="https://solved.ac/pauljjang410" target="_blank"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=pauljjang410"></a>
+<a href="https://solved.ac/pauljjang410" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pauljjang410"></a>
 
 ## 😎 Activity
 - 2020 Google Indie Game Festival User Judge
