@@ -41,4 +41,4 @@ Hello, I'm a 20 year old student and I'm studying in South Korea.
 ## 📈 GitHub Stats
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=GreenScreen410&langs_count=3)
 ![](https://github-stats-extended.vercel.app/api?username=GreenScreen410&show_icons=true)
-![](https://github-stats-extended.vercel.app/api/wakatime?username=GreenScreen410\&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=GreenScreen410&layout=compact)](https://wakatime.com/@GreenScreen410)
