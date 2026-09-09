@@ -18,6 +18,11 @@ Hello, I'm a 20 year old student and I'm studying in South Korea.
 ## 📊 Problem Solving
 <a href="https://solved.ac/pauljjang410" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pauljjang410"></a>
 
+## 🔒 Security Research
+- **2026.07.29: wpa_supplicant - Heap buffer overflow in mesh AMPE processing**  
+  Discovered and reported a heap buffer overflow in IEEE 802.11s AMPE message processing. Credited as Mingyu Jung in the official security advisory.  
+  [Advisory](https://w1.fi/security/2026-4/incomplete-bounds-checking-of-mesh-ampe-messages-in-wpa_supplicant.txt), [Patch](https://git.w1.fi/cgit/hostap/commit/?id=0ef47396926cb8ce4827b6a5a593ebfc270b8e06)
+
 ## 😎 Activity
 - 2020 Google Indie Game Festival User Judge
 - PreMiD Korean Translator, Proofreader
@@ -35,9 +40,11 @@ Hello, I'm a 20 year old student and I'm studying in South Korea.
 - 2024 The 30th National Creative IT Coding Competition: **Big Data Gyeonggi-do Branch Award** (경기도지회장상)
 - 2024 The 30th National Creative IT Coding Competition: **Information Processing Expert National Assembly Member Award** (국회의원상)
 - 2025 Hongik University Department of Software and Communication
-- 2025.7.21 ~ 9.5 Innogrid Inc. Cloud Research Center Hybrid Platform Team Internship
+- 2025.07.21 ~ 9.5 Innogrid Inc. Cloud Research Center Hybrid Platform Team Internship
 - 2025 Gumi City Policy Proposal Paper Contest **Silver Award** (은상)
-- 
+  2026.06.29 ~ 08.31 SSR Inc. Colsulting Team Vulnerability Research Lab Intership
+- ICPC Sinchon 26 Summer Co-President
+
 ## 📈 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GreenScreen410)](https://github-stats-extended.vercel.app/api/top-langs?username=GreenScreen410)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GreenScreen410&rank_icon=percentile&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=GreenScreen410&rank_icon=percentile&include_all_commits=true)
