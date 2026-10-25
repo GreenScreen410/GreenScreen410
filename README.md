@@ -42,7 +42,7 @@ Hello, I'm a 20 year old student and I'm studying in South Korea.
 - 2025 Hongik University Department of Software and Communication
 - 2025.07.21 ~ 9.5 Innogrid Inc. Cloud Research Center Hybrid Platform Team Internship
 - 2025 Gumi City Policy Proposal Paper Contest **Silver Award** (은상)
-  2026.06.29 ~ 08.31 SSR Inc. Colsulting Team Vulnerability Research Lab Intership
+- 2026.06.29 ~ 08.31 SSR Inc. Colsulting Team Vulnerability Research Lab Intership
 - ICPC Sinchon 26 Summer Co-President
 
 ## 📈 GitHub Stats
